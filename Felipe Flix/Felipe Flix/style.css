@@ -52,7 +52,7 @@ img{
     opacity: 0.5;
 }
 
-.categoria-vídeos img :hover{
+.categoria-vídeos img:hover{
     opacity: 1.0;
     border: 1px solid green;
 }
